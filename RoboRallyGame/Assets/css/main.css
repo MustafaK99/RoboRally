@@ -1,0 +1,23 @@
+.rounded{
+    -fx-background-color: white;
+    -fx-background-radius: 10;
+    -fx-background-insets: 10;
+}
+
+.shadow{
+    -fx-background-color:  #646464;
+    -fx-background-radius: 10;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0, 0, 0);
+}
+
+.rounded2{
+    -fx-background-color: transparent;
+    -fx-border-color: white;
+    -fx-border-radius: 50;
+    -fx-border-insets: 4;
+    -fx-text-fill: white;
+}
+
+.button{
+    -fx-cursor: hand;
+}

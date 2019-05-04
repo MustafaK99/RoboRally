@@ -1,0 +1,4 @@
+format 1
+Alice Bob Charlie
+WWWWW WWWWW FFRFR
+WWWWW WWWWW FLRLR
